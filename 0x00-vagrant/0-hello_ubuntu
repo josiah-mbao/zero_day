@@ -1,1 +1,2 @@
 The uname command returns or displays the operating system currently being used.
+In this case, it will return Linux.
